@@ -4,11 +4,7 @@ docker/xiong-an-cityflow-submission.tar
 docker/*.tar
 docker/SHA256SUMS.txt.bak
 
-# 大型流量数据（建议使用 Git LFS 管理，或按需从数据源单独分发）
-data/**/flow_*.json
-
-# 模型权重文件（体积较大，且部分为团队自训练产物，不适合直接入库）
-*.pt
+# 模型权重（official_ugat_best.pt 约 6KB，已入库；大权重再单独排除）
 *.pth
 *.ckpt
 

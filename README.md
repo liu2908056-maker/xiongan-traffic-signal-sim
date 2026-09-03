@@ -3,7 +3,6 @@
 > 挑战杯「揭榜挂帅」XH-202613 · 赛道 B「经典交通管控算法的场景适配与优化」
 > 面向雄安新区「城市大脑」的车路云一体化协同管控算法与仿真平台
 > 本仓库内容：功能二-任务三（F2-T3）「平台部署与性能优化」
-> 负责人：刘一鸣
 
 ---
 
@@ -94,7 +93,3 @@ docker run --rm -v "$PWD/outputs:/app/outputs" xiong-an-20-platform:final \
 - **UGAT**、**FRAP** 上游仓库均无 LICENSE 文件，未声明开源许可证；本项目仅使用其预训练权重 / 算法思想用于学术复现，并在报告中引用相应论文。
 - CityFlow（Apache-2.0）、pybind11（BSD-3-Clause）、rapidjson（MIT）、SUMO（EPL-2.0）等第三方组件的完整清单与许可证详情，见 [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md)。
 - 预训练权重 `official_ugat_best.pt` 为团队自行训练，经哈希核对确认非官方发布权重，详见 `THIRD_PARTY_NOTICES.md`。
-
-## 七、联系方式
-
-如需了解本任务的其他细节，请联系负责人：刘一鸣。

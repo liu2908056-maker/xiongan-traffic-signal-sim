@@ -1,0 +1,724 @@
+[
+  {
+    "intersection": 1,
+    "grid_position": [
+      1,
+      3
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\1\\路口数据\\demo_1流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3998,
+        "approach_vehicles": {
+          "E": 1127,
+          "W": 894,
+          "N": 923,
+          "S": 1054
+        }
+      },
+      "midday": {
+        "vehicles": 2525,
+        "approach_vehicles": {
+          "E": 549,
+          "W": 693,
+          "N": 645,
+          "S": 638
+        }
+      },
+      "evening": {
+        "vehicles": 4592,
+        "approach_vehicles": {
+          "E": 1019,
+          "W": 1354,
+          "N": 1278,
+          "S": 941
+        }
+      }
+    }
+  },
+  {
+    "intersection": 2,
+    "grid_position": [
+      3,
+      2
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\2\\路口数据\\demo_2流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 2761,
+        "approach_vehicles": {
+          "W": 816,
+          "N": 903,
+          "S": 1042
+        }
+      },
+      "midday": {
+        "vehicles": 1502,
+        "approach_vehicles": {
+          "W": 474,
+          "N": 545,
+          "S": 483
+        }
+      },
+      "evening": {
+        "vehicles": 2299,
+        "approach_vehicles": {
+          "W": 693,
+          "N": 847,
+          "S": 759
+        }
+      }
+    }
+  },
+  {
+    "intersection": 3,
+    "grid_position": [
+      2,
+      2
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\3\\路口数据\\demo_3流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3134,
+        "approach_vehicles": {
+          "E": 818,
+          "W": 907,
+          "N": 718,
+          "S": 691
+        }
+      },
+      "midday": {
+        "vehicles": 1257,
+        "approach_vehicles": {
+          "E": 326,
+          "W": 360,
+          "N": 296,
+          "S": 275
+        }
+      },
+      "evening": {
+        "vehicles": 2824,
+        "approach_vehicles": {
+          "E": 731,
+          "W": 815,
+          "N": 651,
+          "S": 627
+        }
+      }
+    }
+  },
+  {
+    "intersection": 4,
+    "grid_position": [
+      2,
+      3
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\4\\路口数据\\demo_4流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3413,
+        "approach_vehicles": {
+          "E": 894,
+          "W": 741,
+          "N": 865,
+          "S": 913
+        }
+      },
+      "midday": {
+        "vehicles": 1999,
+        "approach_vehicles": {
+          "E": 474,
+          "W": 512,
+          "N": 490,
+          "S": 523
+        }
+      },
+      "evening": {
+        "vehicles": 4073,
+        "approach_vehicles": {
+          "E": 1054,
+          "W": 916,
+          "N": 983,
+          "S": 1120
+        }
+      }
+    }
+  },
+  {
+    "intersection": 5,
+    "grid_position": [
+      0,
+      2
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\5\\路口数据\\demo_5流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 2438,
+        "approach_vehicles": {
+          "E": 736,
+          "W": 890,
+          "S": 812
+        }
+      },
+      "midday": {
+        "vehicles": 1988,
+        "approach_vehicles": {
+          "E": 636,
+          "W": 690,
+          "S": 662
+        }
+      },
+      "evening": {
+        "vehicles": 4038,
+        "approach_vehicles": {
+          "E": 1136,
+          "W": 1490,
+          "S": 1412
+        }
+      }
+    }
+  },
+  {
+    "intersection": 6,
+    "grid_position": [
+      1,
+      2
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\6\\路口数据\\demo_6流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 4455,
+        "approach_vehicles": {
+          "E": 1588,
+          "W": 875,
+          "S": 964,
+          "N": 1028
+        }
+      },
+      "midday": {
+        "vehicles": 3210,
+        "approach_vehicles": {
+          "E": 870,
+          "W": 924,
+          "S": 674,
+          "N": 742
+        }
+      },
+      "evening": {
+        "vehicles": 4909,
+        "approach_vehicles": {
+          "E": 1543,
+          "W": 1265,
+          "S": 1139,
+          "N": 962
+        }
+      }
+    }
+  },
+  {
+    "intersection": 7,
+    "grid_position": [
+      0,
+      3
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\7\\路口数据\\demo_7流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 2950,
+        "approach_vehicles": {
+          "E": 958,
+          "W": 956,
+          "S": 1036
+        }
+      },
+      "midday": {
+        "vehicles": 1990,
+        "approach_vehicles": {
+          "E": 708,
+          "W": 656,
+          "S": 626
+        }
+      },
+      "evening": {
+        "vehicles": 4140,
+        "approach_vehicles": {
+          "E": 1358,
+          "W": 1256,
+          "S": 1526
+        }
+      }
+    }
+  },
+  {
+    "intersection": 8,
+    "grid_position": [
+      3,
+      3
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\8\\路口数据\\demo_8流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 5090,
+        "approach_vehicles": {
+          "E": 1229,
+          "W": 1296,
+          "N": 1330,
+          "S": 1235
+        }
+      },
+      "midday": {
+        "vehicles": 3636,
+        "approach_vehicles": {
+          "E": 878,
+          "W": 926,
+          "N": 950,
+          "S": 882
+        }
+      },
+      "evening": {
+        "vehicles": 5454,
+        "approach_vehicles": {
+          "E": 1317,
+          "W": 1389,
+          "N": 1425,
+          "S": 1323
+        }
+      }
+    }
+  },
+  {
+    "intersection": 9,
+    "grid_position": [
+      4,
+      2
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\9\\路口数据\\demo_9流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3725,
+        "approach_vehicles": {
+          "E": 683,
+          "W": 640,
+          "N": 898,
+          "S": 919,
+          "NE": 585
+        }
+      },
+      "midday": {
+        "vehicles": 1495,
+        "approach_vehicles": {
+          "E": 274,
+          "W": 258,
+          "N": 359,
+          "S": 369,
+          "NE": 235
+        }
+      },
+      "evening": {
+        "vehicles": 3347,
+        "approach_vehicles": {
+          "E": 613,
+          "W": 574,
+          "N": 804,
+          "S": 831,
+          "NE": 525
+        }
+      }
+    }
+  },
+  {
+    "intersection": 10,
+    "grid_position": [
+      4,
+      3
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\10\\路口数据\\demo_10流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3609,
+        "approach_vehicles": {
+          "E": 1317,
+          "W": 1048,
+          "S": 1244
+        }
+      },
+      "midday": {
+        "vehicles": 1884,
+        "approach_vehicles": {
+          "E": 622,
+          "W": 652,
+          "S": 610
+        }
+      },
+      "evening": {
+        "vehicles": 3711,
+        "approach_vehicles": {
+          "E": 1007,
+          "W": 1418,
+          "S": 1286
+        }
+      }
+    }
+  },
+  {
+    "intersection": 11,
+    "grid_position": [
+      1,
+      1
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\11\\路口数据\\demo_11流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 5962,
+        "approach_vehicles": {
+          "E": 1587,
+          "W": 1689,
+          "N": 1215,
+          "S": 1471
+        }
+      },
+      "midday": {
+        "vehicles": 5180,
+        "approach_vehicles": {
+          "E": 1464,
+          "W": 1464,
+          "N": 1126,
+          "S": 1126
+        }
+      },
+      "evening": {
+        "vehicles": 6881,
+        "approach_vehicles": {
+          "E": 1920,
+          "W": 2021,
+          "N": 1804,
+          "S": 1136
+        }
+      }
+    }
+  },
+  {
+    "intersection": 12,
+    "grid_position": [
+      2,
+      1
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\12\\路口数据\\demo_12流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 5013,
+        "approach_vehicles": {
+          "E": 1431,
+          "W": 1313,
+          "N": 1073,
+          "S": 1196
+        }
+      },
+      "midday": {
+        "vehicles": 1906,
+        "approach_vehicles": {
+          "E": 545,
+          "W": 499,
+          "N": 407,
+          "S": 455
+        }
+      },
+      "evening": {
+        "vehicles": 4412,
+        "approach_vehicles": {
+          "E": 1260,
+          "W": 1155,
+          "N": 944,
+          "S": 1053
+        }
+      }
+    }
+  },
+  {
+    "intersection": 13,
+    "grid_position": [
+      0,
+      1
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\13\\路口数据\\demo_13流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3087,
+        "approach_vehicles": {
+          "E": 1005,
+          "W": 942,
+          "N": 1140
+        }
+      },
+      "midday": {
+        "vehicles": 2750,
+        "approach_vehicles": {
+          "E": 958,
+          "W": 1138,
+          "N": 654
+        }
+      },
+      "evening": {
+        "vehicles": 3786,
+        "approach_vehicles": {
+          "E": 1145,
+          "W": 1287,
+          "N": 1354
+        }
+      }
+    }
+  },
+  {
+    "intersection": 14,
+    "grid_position": [
+      0,
+      0
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\14\\路口数据\\demo_14流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3406,
+        "approach_vehicles": {
+          "E": 857,
+          "S": 1344,
+          "N": 1205
+        }
+      },
+      "midday": {
+        "vehicles": 2792,
+        "approach_vehicles": {
+          "E": 1024,
+          "S": 810,
+          "N": 958
+        }
+      },
+      "evening": {
+        "vehicles": 3644,
+        "approach_vehicles": {
+          "E": 1587,
+          "S": 923,
+          "N": 1134
+        }
+      }
+    }
+  },
+  {
+    "intersection": 15,
+    "grid_position": [
+      2,
+      0
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\15\\路口数据\\demo_15流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 5878,
+        "approach_vehicles": {
+          "E": 1329,
+          "W": 1202,
+          "S": 1853,
+          "N": 1494
+        }
+      },
+      "midday": {
+        "vehicles": 5281,
+        "approach_vehicles": {
+          "E": 1083,
+          "W": 942,
+          "S": 1672,
+          "N": 1584
+        }
+      },
+      "evening": {
+        "vehicles": 6405,
+        "approach_vehicles": {
+          "E": 1298,
+          "W": 1574,
+          "S": 1705,
+          "N": 1828
+        }
+      }
+    }
+  },
+  {
+    "intersection": 16,
+    "grid_position": [
+      3,
+      1
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\16\\路口数据\\demo_16流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 4992,
+        "approach_vehicles": {
+          "E": 1539,
+          "W": 1302,
+          "N": 1154,
+          "S": 997
+        }
+      },
+      "midday": {
+        "vehicles": 4664,
+        "approach_vehicles": {
+          "E": 1168,
+          "W": 1102,
+          "N": 924,
+          "S": 1470
+        }
+      },
+      "evening": {
+        "vehicles": 4792,
+        "approach_vehicles": {
+          "E": 1398,
+          "W": 1224,
+          "N": 955,
+          "S": 1215
+        }
+      }
+    }
+  },
+  {
+    "intersection": 17,
+    "grid_position": [
+      1,
+      0
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\17\\路口数据\\demo_17流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 2939,
+        "approach_vehicles": {
+          "E": 1044,
+          "N": 893,
+          "S": 1002
+        }
+      },
+      "midday": {
+        "vehicles": 2012,
+        "approach_vehicles": {
+          "E": 632,
+          "N": 736,
+          "S": 644
+        }
+      },
+      "evening": {
+        "vehicles": 3912,
+        "approach_vehicles": {
+          "E": 1358,
+          "N": 1194,
+          "S": 1360
+        }
+      }
+    }
+  },
+  {
+    "intersection": 18,
+    "grid_position": [
+      3,
+      0
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\18\\路口数据\\demo_18流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 4953,
+        "approach_vehicles": {
+          "SW": 1566,
+          "SE": 988,
+          "NW": 1024,
+          "NE": 1375
+        }
+      },
+      "midday": {
+        "vehicles": 5474,
+        "approach_vehicles": {
+          "SW": 1382,
+          "SE": 1254,
+          "NW": 1170,
+          "NE": 1668
+        }
+      },
+      "evening": {
+        "vehicles": 6598,
+        "approach_vehicles": {
+          "SW": 1825,
+          "SE": 1573,
+          "NW": 1185,
+          "NE": 2015
+        }
+      }
+    }
+  },
+  {
+    "intersection": 19,
+    "grid_position": [
+      4,
+      0
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\19\\路口数据\\demo_19流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 3313,
+        "approach_vehicles": {
+          "SW": 854,
+          "SE": 762,
+          "NW": 631,
+          "NE": 1066
+        }
+      },
+      "midday": {
+        "vehicles": 2278,
+        "approach_vehicles": {
+          "SW": 410,
+          "SE": 566,
+          "NW": 384,
+          "NE": 918
+        }
+      },
+      "evening": {
+        "vehicles": 4873,
+        "approach_vehicles": {
+          "SW": 1098,
+          "SE": 1125,
+          "NW": 1253,
+          "NE": 1397
+        }
+      }
+    }
+  },
+  {
+    "intersection": 20,
+    "grid_position": [
+      4,
+      1
+    ],
+    "source": "C:\\Users\\lauri\\Desktop\\路口数据\\路口数据\\20\\路口数据\\demo_20流量和交叉口配时方案.xlsx",
+    "periods": {
+      "morning": {
+        "vehicles": 2633,
+        "approach_vehicles": {
+          "E": 479,
+          "W": 353,
+          "N": 705,
+          "S": 1096
+        }
+      },
+      "midday": {
+        "vehicles": 1041,
+        "approach_vehicles": {
+          "E": 186,
+          "W": 140,
+          "N": 277,
+          "S": 438
+        }
+      },
+      "evening": {
+        "vehicles": 2361,
+        "approach_vehicles": {
+          "E": 434,
+          "W": 308,
+          "N": 628,
+          "S": 991
+        }
+      }
+    }
+  }
+]

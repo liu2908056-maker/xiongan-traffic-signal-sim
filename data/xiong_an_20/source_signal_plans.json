@@ -1,0 +1,1668 @@
+{
+  "1": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 38,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 43,
+      "cycle_s": 160
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 37,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 37,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 38,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 43,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 27,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 32,
+      "cycle_s": 140
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 33,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 38,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 33,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 38,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 27,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 32,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 42,
+      "cycle_s": 160
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 39,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 42,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 37,
+      "cycle_s": null
+    }
+  ],
+  "2": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "南北向直行",
+      "green_s": 33,
+      "yellow_s": 3,
+      "all_red_s": 0,
+      "phase_total_s": 36,
+      "cycle_s": 80
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西南向左转",
+      "green_s": 41,
+      "yellow_s": 3,
+      "all_red_s": 0,
+      "phase_total_s": 44,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "南北向直行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 0,
+      "phase_total_s": 40,
+      "cycle_s": 80
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西南向左转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 0,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "南北向直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": 0,
+      "phase_total_s": 48,
+      "cycle_s": 80
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西南向左转",
+      "green_s": 29,
+      "yellow_s": 3,
+      "all_red_s": 0,
+      "phase_total_s": 32,
+      "cycle_s": null
+    }
+  ],
+  "3": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西左转直行",
+      "green_s": 55,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 58,
+      "cycle_s": 108
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北左转直行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 50,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西左转直行",
+      "green_s": 55,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 58,
+      "cycle_s": 108
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北左转直行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 50,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西左转直行",
+      "green_s": 55,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 58,
+      "cycle_s": 108
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北左转直行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 50,
+      "cycle_s": null
+    }
+  ],
+  "4": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "南北向直行",
+      "green_s": 52,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 57,
+      "cycle_s": 180
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北向左转",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西向直左",
+      "green_s": 36,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 41,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "东向直左",
+      "green_s": 42,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 47,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "南北向直左",
+      "green_s": 57,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 62,
+      "cycle_s": 140
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西向直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 39,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "东向直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 39,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 50,
+      "cycle_s": 180
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 48,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 53,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 42,
+      "cycle_s": null
+    }
+  ],
+  "5": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西向直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 37,
+      "cycle_s": 77
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南向左右转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西向直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 37,
+      "cycle_s": 77
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南向左右转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 37,
+      "cycle_s": 77
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南向左右转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    }
+  ],
+  "6": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西直左",
+      "green_s": 57,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 60,
+      "cycle_s": 137
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北左转",
+      "green_s": 26,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 29,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 48,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西直左",
+      "green_s": 57,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 60,
+      "cycle_s": 137
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北左转",
+      "green_s": 26,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 29,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 48,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西直左",
+      "green_s": 57,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 60,
+      "cycle_s": 137
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北左转",
+      "green_s": 26,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 29,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 48,
+      "cycle_s": null
+    }
+  ],
+  "7": [],
+  "8": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 37,
+      "cycle_s": 110
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 18,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 23,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 28,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 33,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 12,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 17,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 25,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 30,
+      "cycle_s": 90
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 15,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 20,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 20,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 25,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 10,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 15,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 40,
+      "cycle_s": 120
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 20,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 25,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 15,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 20,
+      "cycle_s": null
+    }
+  ],
+  "9": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "南北左转直行",
+      "green_s": 56,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 59,
+      "cycle_s": 145
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西左转直行",
+      "green_s": 48,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 51,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "东北左转右转",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "南北左转直行",
+      "green_s": 56,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 59,
+      "cycle_s": 145
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西左转直行",
+      "green_s": 48,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 51,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "东北左转右转",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "南北左转直行",
+      "green_s": 56,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 59,
+      "cycle_s": 145
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西左转直行",
+      "green_s": 48,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 51,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "东北左转右转",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 35,
+      "cycle_s": null
+    }
+  ],
+  "10": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 52,
+      "cycle_s": 120
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东南向左转",
+      "green_s": 63,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 68,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 40,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 45,
+      "cycle_s": 90
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东南向左转",
+      "green_s": 40,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 45,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 59,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 64,
+      "cycle_s": 120
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东南向左转",
+      "green_s": 51,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 56,
+      "cycle_s": null
+    }
+  ],
+  "11": [],
+  "12": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 55,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 60,
+      "cycle_s": 170
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 50,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 55,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 15,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 20,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 65,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 70,
+      "cycle_s": 195
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 60,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 65,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 58,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 63,
+      "cycle_s": 178
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西向左转",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 37,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "南北向直行",
+      "green_s": 53,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 58,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "南北向左转",
+      "green_s": 17,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 22,
+      "cycle_s": null
+    }
+  ],
+  "13": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 55,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 60,
+      "cycle_s": 152
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "北进口左转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 42,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西进口左转",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "东进口直行",
+      "green_s": 15,
+      "yellow_s": null,
+      "all_red_s": null,
+      "phase_total_s": 15,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 65,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 70,
+      "cycle_s": 147
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "北进口左转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 42,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西进口左转",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西向直行",
+      "green_s": 55,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 60,
+      "cycle_s": 152
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "北进口左转",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 42,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西进口左转",
+      "green_s": 30,
+      "yellow_s": 3,
+      "all_red_s": 2,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "东进口直行",
+      "green_s": 15,
+      "yellow_s": null,
+      "all_red_s": null,
+      "phase_total_s": 15,
+      "cycle_s": null
+    }
+  ],
+  "14": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东、北放行",
+      "green_s": 22,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 25,
+      "cycle_s": 75
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南放行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 50,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东、北放行",
+      "green_s": 22,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 25,
+      "cycle_s": 75
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南放行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 50,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东、北放行",
+      "green_s": 22,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 25,
+      "cycle_s": 75
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南放行",
+      "green_s": 47,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 50,
+      "cycle_s": null
+    }
+  ],
+  "15": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "南北直左",
+      "green_s": 50,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 53,
+      "cycle_s": 115
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西直左",
+      "green_s": 59,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 62,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "南北直左",
+      "green_s": 50,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 53,
+      "cycle_s": 115
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西直左",
+      "green_s": 59,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 62,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "南北直左",
+      "green_s": 50,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 53,
+      "cycle_s": 115
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东西直左",
+      "green_s": 59,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 62,
+      "cycle_s": null
+    }
+  ],
+  "16": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东西直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 37,
+      "cycle_s": 77
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北直左",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东西直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 37,
+      "cycle_s": 77
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北直左",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东西直左",
+      "green_s": 34,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 37,
+      "cycle_s": 77
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北直左",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    }
+  ],
+  "17": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东进口左右转",
+      "green_s": 58,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 61,
+      "cycle_s": 96
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北直行转向",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东进口左右转",
+      "green_s": 58,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 61,
+      "cycle_s": 96
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北直行转向",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 35,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东进口左右转",
+      "green_s": 58,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 61,
+      "cycle_s": 96
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "南北直行转向",
+      "green_s": 32,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 35,
+      "cycle_s": null
+    }
+  ],
+  "18": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东北、西南放行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": 80
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西北、东南放行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东北、西南放行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": 80
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西北、东南放行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东北、西南放行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": 80
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西北、东南放行",
+      "green_s": 37,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 40,
+      "cycle_s": null
+    }
+  ],
+  "19": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东北、西南放行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 38,
+      "cycle_s": 76
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西北、东南放行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 38,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东北、西南放行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 38,
+      "cycle_s": 76
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西北、东南放行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 38,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东北、西南放行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 38,
+      "cycle_s": 76
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "西北、东南放行",
+      "green_s": 35,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 38,
+      "cycle_s": null
+    }
+  ],
+  "20": [
+    {
+      "period": "早高峰",
+      "range": "7:00-9:00",
+      "phase": 1,
+      "name": "东北西南左转直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 48,
+      "cycle_s": 120
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东北西南左转",
+      "green_s": 9,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 12,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西北东南左转直行",
+      "green_s": 45,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 48,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "西北东南左转",
+      "green_s": 9,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 12,
+      "cycle_s": null
+    },
+    {
+      "period": "平峰",
+      "range": "14:30-16:30",
+      "phase": 1,
+      "name": "东北西南左转直行",
+      "green_s": 33,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 36,
+      "cycle_s": 90
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东北西南左转",
+      "green_s": 6,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 9,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西北东南左转直行",
+      "green_s": 33,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 36,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "西北东南左转",
+      "green_s": 6,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 9,
+      "cycle_s": null
+    },
+    {
+      "period": "晚高峰",
+      "range": "17:30-19:30",
+      "phase": 1,
+      "name": "东北西南左转直行",
+      "green_s": 41,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 44,
+      "cycle_s": 110
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 2,
+      "name": "东北西南左转",
+      "green_s": 8,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 11,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 3,
+      "name": "西北东南左转直行",
+      "green_s": 41,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 44,
+      "cycle_s": null
+    },
+    {
+      "period": null,
+      "range": null,
+      "phase": 4,
+      "name": "西北东南左转",
+      "green_s": 8,
+      "yellow_s": 3,
+      "all_red_s": null,
+      "phase_total_s": 11,
+      "cycle_s": null
+    }
+  ]
+}

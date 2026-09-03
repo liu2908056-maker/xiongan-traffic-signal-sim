@@ -1,0 +1,11 @@
+﻿UGAT frozen + FARP run commands
+
+Docker PowerShell（在 UGAT冻结主干_FARP部署与复现 目录下执行）:
+docker run --rm -it --entrypoint /bin/bash -v "${PWD}:/workspace/final" danielda1/ugat:latest
+
+Container:
+cd /workspace/final/ugat_frap
+python ugat_farp_train.py --mode inspect --checkpoint /workspace/final/official_ugat_best.pt
+python ugat_farp_train.py --mode test --checkpoint /workspace/final/official_ugat_best.pt
+python ugat_farp_train.py --mode train --checkpoint /workspace/final/official_ugat_best.pt --epochs 10 --state /workspace/final/logs/farp_resume.pt
+python ugat_farp_train.py --mode train --resume --checkpoint /workspace/final/official_ugat_best.pt --epochs 10 --state /workspace/final/logs/farp_resume.pt

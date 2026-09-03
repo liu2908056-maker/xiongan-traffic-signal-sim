@@ -1,0 +1,61 @@
+# ========== 提交/发布大文件（超过 GitHub 单文件 100MB 限制，或不适合入库）==========
+功能二-任务三.tar.gz
+docker/xiong-an-cityflow-submission.tar
+docker/*.tar
+docker/SHA256SUMS.txt.bak
+
+# 大型流量数据（建议使用 Git LFS 管理，或按需从数据源单独分发）
+data/**/flow_*.json
+
+# 模型权重文件（体积较大，且部分为团队自训练产物，不适合直接入库）
+*.pt
+*.pth
+*.ckpt
+
+# ========== 运行产物 ==========
+outputs/
+logs/
+*.log
+*.out
+*.csv.bak
+*.tmp
+
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# ========== IDE / 编辑器 ==========
+.idea/
+.vscode/
+*.iml
+.spyderproject
+.spyproject
+
+# ========== 系统文件 ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Docker / 容器构建缓存 ==========
+.docker/
+*.dockerignore.bak
+
+# ========== 其他临时文件 ==========
+*.swp
+*.swo
+*~
+.cache/

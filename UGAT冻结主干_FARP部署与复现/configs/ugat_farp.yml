@@ -1,0 +1,7 @@
+official_checkpoint: official_ugat_best.pt
+official_architecture: DQN(16,20,20,8)
+official_backbone_trainable: false
+farp_head: FRAP phase competition, 8 actions
+farp_trainable_scope: frap_and_fusion_only
+farp_learning_rate: 0.001
+random_seed: 20260806

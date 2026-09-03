@@ -1,0 +1,8 @@
+本目录为自包含工程，Docker 与环境文件位于本目录根：
+- Dockerfile、docker-compose.yml、requirements.txt —— 容器构建与环境依赖
+- src/ —— 平台源码（run_cityflow.py、validate_scenario.py、show_live.py 等）
+- data/xiong_an_20/ —— 20 路口路网、流量、信号配置
+- third_party/CityFlow/ —— 官方 CityFlow 源码（固定提交 81ee0f4…），Docker 构建时本地编译
+- outputs/ —— 代表性运行输出（metrics.csv、trace_*）
+- docker/xiong-an-cityflow-submission.tar —— 离线镜像（SHA-256 见 docker/SHA256SUMS.txt）
+- UGAT冻结主干_FARP部署与复现/ —— UGAT 冻结主干 + FARP 训练/推理/性能结果

@@ -1,0 +1,6 @@
+services:
+  xiong-an-platform:
+    build: .
+    volumes:
+      - ./outputs:/app/outputs
+    command: ["--period", "morning", "--algorithm", "max_pressure", "--steps", "7500", "--threads", "4"]

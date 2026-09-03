@@ -28,6 +28,8 @@
 
 ## 三、快速开始
 
+> 完整可复现包（含离线镜像与全部数据）见 [Releases](https://github.com/liu2908056-maker/xiongan-traffic-signal-sim/releases)，下载 `xiongan-traffic-signal-sim-full.tar.gz`；以下为源码构建方式。
+
 ### 1. 构建镜像（基线版，自包含、已复现验证）
 
 ```bash
